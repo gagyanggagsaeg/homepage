@@ -33,7 +33,7 @@ ol li {
 #instagram{
   margin-left: 100px;
 }
-@media(max-width:800px){
+@media(max-width:50%){
     h1{
       text-align: center;
       margin-left:0;
